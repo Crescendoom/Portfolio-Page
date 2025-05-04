@@ -31,7 +31,7 @@ const imageAltText = "My Neighbour Totoro";
  */
 const projectList = [
   {
-    title: "Lorem Ipsum",
+    title: "Cat and Dog Classifier",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In interdum tortor et metus dapibus rutrum.",
     url: "",
