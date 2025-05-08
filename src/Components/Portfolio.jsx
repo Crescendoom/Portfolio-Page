@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Cat and Dog Classifier",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In interdum tortor et metus dapibus rutrum.",
+      " deep learning model that classifies images as either cats or dogs using TensorFlow and MobileNetV2.",
     url: "",
   },
   {
